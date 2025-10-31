@@ -1,0 +1,17 @@
+# Quick Commands to Push to GitHub
+
+## Replace YOUR_USERNAME with your GitHub username
+## Replace hd-booking-app with your repository name (if different)
+
+# Step 1: Add remote repository
+git remote add origin https://github.com/YOUR_USERNAME/hd-booking-app.git
+
+# Step 2: Rename branch to main (if needed)
+git branch -M main
+
+# Step 3: Push to GitHub
+git push -u origin main
+
+# After first push, you can use:
+git push
+
