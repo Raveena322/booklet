@@ -384,7 +384,7 @@ For issues or questions, please open an issue on GitHub.
 ---
 
 **Live Demo:** [Add your hosted URL here after deployment]
-**GitHub Repository:** [Add your repo URL here after pushing to GitHub]
+**GitHub Repository:** https://github.com/Raveena322/booklet
 
 ## 📚 Additional Resources
 
