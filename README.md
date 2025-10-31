@@ -383,5 +383,11 @@ For issues or questions, please open an issue on GitHub.
 
 ---
 
-**Live Demo:** [Add your hosted URL here]
-**GitHub Repository:** [Add your repo URL here]
+**Live Demo:** [Add your hosted URL here after deployment]
+**GitHub Repository:** [Add your repo URL here after pushing to GitHub]
+
+## 📚 Additional Resources
+
+- **[DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md)** - Step-by-step deployment instructions
+- **[REQUIREMENTS_CHECKLIST.md](./REQUIREMENTS_CHECKLIST.md)** - Complete requirements checklist
+- **[START_HERE.md](./START_HERE.md)** - Quick setup guide
